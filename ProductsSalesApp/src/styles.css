@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.mouse-hover{
+    cursor: pointer;
+}
+form.submitted input.ng-valid{
+    border-color: red;
+}
+.navbar-custom {
+    background-color: #333;
+  }
+  .navbar-custom .navbar-nav .nav-link {
+    color: #ddd;
+  }
+  .navbar-custom .navbar-nav .nav-link.active {
+    color: #fff;
+    background-color: #555;
+  }
+  .navbar-custom .navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #444;
+  }
