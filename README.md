@@ -10,6 +10,8 @@ dotnet clean
 
 dotnet build
 
+dotnet run
+
 cd C:\$Cloned_Directory$\ProductsSalesApp
 
 Install Node.js (download and run install)
@@ -21,5 +23,7 @@ nvm install 18
 nvm install use
 
 npm install @angular-devkit/build-angular --save-dev
+
+ng add @ng-bootstrap/ng-bootstrap
 
 Run command : ng serve -o

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tebogot\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj": {}
+    "C:\\Users\\tebogot\\Documents\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tebogot\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj": {
+    "C:\\Users\\tebogot\\Documents\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tebogot\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj",
+        "projectUniqueName": "C:\\Users\\tebogot\\Documents\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj",
         "projectName": "ProductsSalesReport",
-        "projectPath": "C:\\Users\\tebogot\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj",
+        "projectPath": "C:\\Users\\tebogot\\Documents\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\ProductsSalesReport.csproj",
         "packagesPath": "C:\\Users\\tebogot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tebogot\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\obj\\",
+        "outputPath": "C:\\Users\\tebogot\\Documents\\singular_products\\ProductsSalesReport\\ProductsSalesReport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
